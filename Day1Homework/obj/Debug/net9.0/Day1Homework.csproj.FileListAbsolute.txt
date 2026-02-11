@@ -1,0 +1,15 @@
+C:\Users\TCS\OneDrive\Desktop\Part4\Coding-at-Pratham\Day1Homework\bin\Debug\net9.0\Day1Homework.exe
+C:\Users\TCS\OneDrive\Desktop\Part4\Coding-at-Pratham\Day1Homework\bin\Debug\net9.0\Day1Homework.deps.json
+C:\Users\TCS\OneDrive\Desktop\Part4\Coding-at-Pratham\Day1Homework\bin\Debug\net9.0\Day1Homework.runtimeconfig.json
+C:\Users\TCS\OneDrive\Desktop\Part4\Coding-at-Pratham\Day1Homework\bin\Debug\net9.0\Day1Homework.dll
+C:\Users\TCS\OneDrive\Desktop\Part4\Coding-at-Pratham\Day1Homework\bin\Debug\net9.0\Day1Homework.pdb
+C:\Users\TCS\OneDrive\Desktop\Part4\Coding-at-Pratham\Day1Homework\obj\Debug\net9.0\Day1Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TCS\OneDrive\Desktop\Part4\Coding-at-Pratham\Day1Homework\obj\Debug\net9.0\Day1Homework.AssemblyInfoInputs.cache
+C:\Users\TCS\OneDrive\Desktop\Part4\Coding-at-Pratham\Day1Homework\obj\Debug\net9.0\Day1Homework.AssemblyInfo.cs
+C:\Users\TCS\OneDrive\Desktop\Part4\Coding-at-Pratham\Day1Homework\obj\Debug\net9.0\Day1Homework.csproj.CoreCompileInputs.cache
+C:\Users\TCS\OneDrive\Desktop\Part4\Coding-at-Pratham\Day1Homework\obj\Debug\net9.0\Day1Homework.sourcelink.json
+C:\Users\TCS\OneDrive\Desktop\Part4\Coding-at-Pratham\Day1Homework\obj\Debug\net9.0\Day1Homework.dll
+C:\Users\TCS\OneDrive\Desktop\Part4\Coding-at-Pratham\Day1Homework\obj\Debug\net9.0\refint\Day1Homework.dll
+C:\Users\TCS\OneDrive\Desktop\Part4\Coding-at-Pratham\Day1Homework\obj\Debug\net9.0\Day1Homework.pdb
+C:\Users\TCS\OneDrive\Desktop\Part4\Coding-at-Pratham\Day1Homework\obj\Debug\net9.0\Day1Homework.genruntimeconfig.cache
+C:\Users\TCS\OneDrive\Desktop\Part4\Coding-at-Pratham\Day1Homework\obj\Debug\net9.0\ref\Day1Homework.dll
