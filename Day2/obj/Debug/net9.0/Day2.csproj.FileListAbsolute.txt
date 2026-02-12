@@ -1,0 +1,15 @@
+C:\Users\TCS\OneDrive\Desktop\Part4\Coding-at-Pratham\Day2\bin\Debug\net9.0\Day2.exe
+C:\Users\TCS\OneDrive\Desktop\Part4\Coding-at-Pratham\Day2\bin\Debug\net9.0\Day2.deps.json
+C:\Users\TCS\OneDrive\Desktop\Part4\Coding-at-Pratham\Day2\bin\Debug\net9.0\Day2.runtimeconfig.json
+C:\Users\TCS\OneDrive\Desktop\Part4\Coding-at-Pratham\Day2\bin\Debug\net9.0\Day2.dll
+C:\Users\TCS\OneDrive\Desktop\Part4\Coding-at-Pratham\Day2\bin\Debug\net9.0\Day2.pdb
+C:\Users\TCS\OneDrive\Desktop\Part4\Coding-at-Pratham\Day2\obj\Debug\net9.0\Day2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TCS\OneDrive\Desktop\Part4\Coding-at-Pratham\Day2\obj\Debug\net9.0\Day2.AssemblyInfoInputs.cache
+C:\Users\TCS\OneDrive\Desktop\Part4\Coding-at-Pratham\Day2\obj\Debug\net9.0\Day2.AssemblyInfo.cs
+C:\Users\TCS\OneDrive\Desktop\Part4\Coding-at-Pratham\Day2\obj\Debug\net9.0\Day2.csproj.CoreCompileInputs.cache
+C:\Users\TCS\OneDrive\Desktop\Part4\Coding-at-Pratham\Day2\obj\Debug\net9.0\Day2.sourcelink.json
+C:\Users\TCS\OneDrive\Desktop\Part4\Coding-at-Pratham\Day2\obj\Debug\net9.0\Day2.dll
+C:\Users\TCS\OneDrive\Desktop\Part4\Coding-at-Pratham\Day2\obj\Debug\net9.0\refint\Day2.dll
+C:\Users\TCS\OneDrive\Desktop\Part4\Coding-at-Pratham\Day2\obj\Debug\net9.0\Day2.pdb
+C:\Users\TCS\OneDrive\Desktop\Part4\Coding-at-Pratham\Day2\obj\Debug\net9.0\Day2.genruntimeconfig.cache
+C:\Users\TCS\OneDrive\Desktop\Part4\Coding-at-Pratham\Day2\obj\Debug\net9.0\ref\Day2.dll
